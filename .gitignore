@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Model cache (downloaded on first run, large)
+.cache/
+*.pt
+
+# OS
+.DS_Store
+
+# Note: data/ IS committed so the repo runs out of the box.
