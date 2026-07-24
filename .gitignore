@@ -13,3 +13,4 @@ env/
 .DS_Store
 
 # Note: data/ IS committed so the repo runs out of the box.
+.idea/
